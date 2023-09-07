@@ -1,0 +1,220 @@
+21:30:54.691 [main] INFO  HomePage.class - Get the page title
+21:30:58.955 [main] INFO  HomePage.class - Entered product name
+21:31:00.239 [main] INFO  HomePage.class - Click on the search button
+21:38:38.149 [main] INFO  HomePage.class - Get the page title
+21:38:42.429 [main] INFO  HomePage.class - Entered product name
+21:38:43.680 [main] INFO  HomePage.class - Click on the search button
+12:13:56.030 [main] INFO  HomePage.class - Click on Register Tab
+12:13:59.035 [main] INFO  HomePage.class - Click on LogIn Tab
+12:14:01.000 [main] INFO  HomePage.class - Entered product name
+12:14:01.666 [main] INFO  HomePage.class - Click on the search
+12:24:29.450 [main] INFO  HomePage.class - Click on Register Tab
+12:25:03.464 [main] INFO  HomePage.class - Click on Register Tab
+12:25:06.681 [main] INFO  HomePage.class - Click on LogIn Tab
+12:25:07.689 [main] INFO  HomePage.class - Entered product name
+12:25:08.082 [main] INFO  HomePage.class - Click on the search
+12:27:58.078 [main] INFO  HomePage.class - Click on Register Tab
+12:47:07.427 [main] INFO  HomePage.class - Click on Register Tab
+12:48:26.868 [main] INFO  HomePage.class - Click on Register Tab
+12:49:17.147 [main] INFO  HomePage.class - Click on Register Tab
+12:49:19.955 [main] INFO  HomePage.class - Click on LogIn Tab
+12:49:21.086 [main] INFO  HomePage.class - Entered product name
+12:49:21.755 [main] INFO  HomePage.class - Click on the search
+13:27:22.661 [main] INFO  HomePage.java - Get the page title
+13:27:28.218 [main] INFO  HomePage.java - Entered product name
+13:27:29.486 [main] INFO  HomePage.java - Click on the search
+13:29:11.634 [main] INFO  HomePage.class - Get the page title
+13:29:16.845 [main] INFO  HomePage.class - Entered product name
+13:29:17.296 [main] INFO  HomePage.class - Click on the search
+14:13:24.281 [main] INFO  HomePage.class - Entered product name
+14:13:25.549 [main] INFO  HomePage.class - Click on the search
+14:13:26.020 [main] INFO  SearchResultPage.class - Click on product
+14:13:26.058 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:13:26.855 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:13:29.524 [main] INFO  HomePage.class - Entered product name
+14:13:29.917 [main] INFO  HomePage.class - Click on the search
+14:13:30.446 [main] INFO  SearchResultPage.class - Click on product
+14:13:32.960 [main] INFO  HomePage.class - Entered product name
+14:13:33.457 [main] INFO  HomePage.class - Click on the search
+14:13:33.904 [main] INFO  SearchResultPage.class - Click on product
+14:13:33.940 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:13:35.553 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:13:39.353 [main] INFO  HomePage.class - Click on Register Tab
+14:13:39.738 [main] INFO  RegisterPage.class - Checked male checkbox
+14:13:39.778 [main] INFO  RegisterPage.class - Entered first name
+14:13:39.818 [main] INFO  RegisterPage.class - Entered last name
+14:13:39.888 [main] INFO  RegisterPage.class - Day selected
+14:13:39.950 [main] INFO  RegisterPage.class - Month selected
+14:13:40.009 [main] INFO  RegisterPage.class - Year selected
+14:13:40.052 [main] INFO  RegisterPage.class - Entered email id
+14:13:40.116 [main] INFO  RegisterPage.class - Entered password
+14:13:40.155 [main] INFO  RegisterPage.class - Entered confirm password
+14:13:42.511 [main] INFO  RegisterPage.class - Click on Register
+14:13:43.711 [main] INFO  ConfirmRegisterPage.class - Click on Continue
+14:13:44.363 [main] INFO  HomePage.class - Click on LogIn Tab
+14:13:44.418 [main] INFO  LoginPage.class - Emai ID is entered
+14:13:44.455 [main] INFO  LoginPage.class - Password is entered
+14:13:46.114 [main] INFO  LoginPage.class - Click on login
+14:13:46.157 [main] INFO  HomePage.class - Entered product name
+14:13:46.786 [main] INFO  HomePage.class - Click on the search
+14:13:47.387 [main] INFO  SearchResultPage.class - Click on product
+14:13:47.425 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:13:48.600 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:13:48.632 [main] INFO  CartPage.class - Checked terms and condition
+14:13:50.314 [main] INFO  CartPage.class - Click on Checkout
+14:13:50.406 [main] INFO  CheckoutPage.class - Country selected
+14:13:50.452 [main] INFO  CheckoutPage.class - Entered city
+14:13:50.498 [main] INFO  CheckoutPage.class - Entered address
+14:13:50.539 [main] INFO  CheckoutPage.class - Entered zip code
+14:13:50.584 [main] INFO  CheckoutPage.class - Entered phone number
+14:13:50.621 [main] INFO  CheckoutPage.class - Click on Continue
+14:13:51.354 [main] INFO  CheckoutPage.class - Click on Continue
+14:13:52.019 [main] INFO  PaymentPage.class - Click on Continue
+14:13:52.479 [main] INFO  PaymentInfoPage.class - Click on Continue
+14:13:52.900 [main] INFO  ConfirmOrderPage.class - Click on Confirm
+14:13:54.574 [main] INFO  OrderPlacePage.class - Click on Continue
+14:13:56.989 [main] INFO  HomePage.class - Get the page title
+14:14:01.499 [main] INFO  HomePage.class - Entered product name
+14:14:02.986 [main] INFO  HomePage.class - Click on the search
+14:14:03.500 [main] INFO  SearchResultPage.class - Click on product
+14:14:06.918 [main] INFO  HomePage.class - Click on Register Tab
+14:14:06.971 [main] INFO  RegisterPage.class - Checked male checkbox
+14:14:07.011 [main] INFO  RegisterPage.class - Entered first name
+14:14:07.054 [main] INFO  RegisterPage.class - Entered last name
+14:14:07.124 [main] INFO  RegisterPage.class - Day selected
+14:14:07.184 [main] INFO  RegisterPage.class - Month selected
+14:14:07.244 [main] INFO  RegisterPage.class - Year selected
+14:14:07.295 [main] INFO  RegisterPage.class - Entered email id
+14:14:07.355 [main] INFO  RegisterPage.class - Entered password
+14:14:07.401 [main] INFO  RegisterPage.class - Entered confirm password
+14:14:07.760 [main] INFO  RegisterPage.class - Click on Register
+14:31:15.743 [main] INFO  HomePage.class - Entered product name
+14:31:17.002 [main] INFO  HomePage.class - Click on the search
+14:31:18.232 [main] INFO  SearchResultPage.class - Click on product
+14:31:18.271 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:31:19.099 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:31:21.788 [main] INFO  HomePage.class - Entered product name
+14:31:23.108 [main] INFO  HomePage.class - Click on the search
+14:31:24.344 [main] INFO  SearchResultPage.class - Click on product
+14:31:27.111 [main] INFO  HomePage.class - Entered product name
+14:31:28.342 [main] INFO  HomePage.class - Click on the search
+14:31:28.837 [main] INFO  SearchResultPage.class - Click on product
+14:31:28.877 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:31:30.489 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:31:33.001 [main] INFO  HomePage.class - Get the page title
+14:31:37.381 [main] INFO  HomePage.class - Entered product name
+14:31:38.625 [main] INFO  HomePage.class - Click on the search
+14:31:39.832 [main] INFO  SearchResultPage.class - Click on product
+14:52:44.071 [main] INFO  HomePage.class - Entered product name
+14:52:45.756 [main] INFO  HomePage.class - Click on the search
+14:52:47.096 [main] INFO  SearchResultPage.class - Click on product
+14:52:47.151 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:52:49.605 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:52:52.623 [main] INFO  HomePage.class - Entered product name
+14:52:53.945 [main] INFO  HomePage.class - Click on the search
+14:52:54.481 [main] INFO  SearchResultPage.class - Click on product
+14:52:57.206 [main] INFO  HomePage.class - Entered product name
+14:52:57.730 [main] INFO  HomePage.class - Click on the search
+14:52:58.271 [main] INFO  SearchResultPage.class - Click on product
+14:52:58.317 [main] INFO  ProductDetailsPage.class - Click on add to cart
+14:52:59.238 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+14:53:02.188 [main] INFO  HomePage.class - Get the page title
+14:53:08.195 [main] INFO  HomePage.class - Entered product name
+14:53:08.795 [main] INFO  HomePage.class - Click on the search
+14:53:09.305 [main] INFO  SearchResultPage.class - Click on product
+15:11:51.035 [main] INFO  HomePage.class - Entered product name
+15:11:51.610 [main] INFO  HomePage.class - Click on the search
+15:11:52.390 [main] INFO  SearchResultPage.class - Click on product
+15:11:52.437 [main] INFO  ProductDetailsPage.class - Click on add to cart
+15:11:53.647 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+15:11:59.474 [main] INFO  HomePage.class - Entered product name
+15:12:02.937 [main] INFO  HomePage.class - Click on the search
+15:12:03.964 [main] INFO  SearchResultPage.class - Click on product
+15:12:07.041 [main] INFO  HomePage.class - Entered product name
+15:12:08.371 [main] INFO  HomePage.class - Click on the search
+15:12:11.119 [main] INFO  SearchResultPage.class - Click on product
+15:12:11.237 [main] INFO  ProductDetailsPage.class - Click on add to cart
+15:12:14.456 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+15:12:16.443 [main] INFO  HomePage.class - Get the page title
+15:12:23.763 [main] INFO  HomePage.class - Entered product name
+15:12:25.135 [main] INFO  HomePage.class - Click on the search
+15:12:26.446 [main] INFO  SearchResultPage.class - Click on product
+17:42:05.898 [main] INFO  HomePage.class - Entered product name
+17:42:07.338 [main] INFO  HomePage.class - Click on the search
+17:42:08.699 [main] INFO  SearchResultPage.class - Click on product
+17:42:08.750 [main] INFO  ProductDetailsPage.class - Click on add to cart
+17:42:09.762 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+17:42:11.678 [main] INFO  HomePage.class - Entered product name
+17:42:12.987 [main] INFO  HomePage.class - Click on the search
+17:42:14.359 [main] INFO  SearchResultPage.class - Click on product
+17:42:17.482 [main] INFO  HomePage.class - Entered product name
+17:42:19.092 [main] INFO  HomePage.class - Click on the search
+17:42:19.630 [main] INFO  SearchResultPage.class - Click on product
+17:42:19.689 [main] INFO  ProductDetailsPage.class - Click on add to cart
+17:42:20.703 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+17:42:23.353 [main] INFO  HomePage.class - Get the page title
+17:42:28.752 [main] INFO  HomePage.class - Entered product name
+17:42:29.573 [main] INFO  HomePage.class - Click on the search
+17:42:30.196 [main] INFO  SearchResultPage.class - Click on product
+17:42:32.711 [main] INFO  HomePage.class - Click on Register Tab
+17:42:33.264 [main] INFO  RegisterPage.class - Checked male checkbox
+17:42:33.305 [main] INFO  RegisterPage.class - Entered first name
+17:42:33.352 [main] INFO  RegisterPage.class - Entered last name
+17:42:33.440 [main] INFO  RegisterPage.class - Day selected
+17:42:33.528 [main] INFO  RegisterPage.class - Month selected
+17:42:33.596 [main] INFO  RegisterPage.class - Year selected
+17:42:33.658 [main] INFO  RegisterPage.class - Entered email id
+17:42:33.730 [main] INFO  RegisterPage.class - Entered password
+17:42:33.779 [main] INFO  RegisterPage.class - Entered confirm password
+17:42:34.717 [main] INFO  RegisterPage.class - Click on Register
+17:42:38.755 [main] INFO  HomePage.class - Click on Register Tab
+17:42:38.809 [main] INFO  RegisterPage.class - Checked male checkbox
+17:42:38.860 [main] INFO  RegisterPage.class - Entered first name
+17:42:38.906 [main] INFO  RegisterPage.class - Entered last name
+17:42:38.979 [main] INFO  RegisterPage.class - Day selected
+17:42:39.065 [main] INFO  RegisterPage.class - Month selected
+17:42:39.173 [main] INFO  RegisterPage.class - Year selected
+17:42:39.240 [main] INFO  RegisterPage.class - Entered email id
+17:42:39.296 [main] INFO  RegisterPage.class - Entered password
+17:42:39.356 [main] INFO  RegisterPage.class - Entered confirm password
+17:42:41.091 [main] INFO  RegisterPage.class - Click on Register
+17:42:42.430 [main] INFO  ConfirmRegisterPage.class - Click on Continue
+17:42:42.933 [main] INFO  HomePage.class - Click on LogIn Tab
+17:42:43.043 [main] INFO  LoginPage.class - Emai ID is entered
+17:42:43.095 [main] INFO  LoginPage.class - Password is entered
+17:42:43.946 [main] INFO  LoginPage.class - Click on login
+17:42:44.044 [main] INFO  HomePage.class - Entered product name
+17:42:44.513 [main] INFO  HomePage.class - Click on the search
+17:42:45.229 [main] INFO  SearchResultPage.class - Click on product
+17:42:45.312 [main] INFO  ProductDetailsPage.class - Click on add to cart
+17:42:46.322 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+17:42:46.377 [main] INFO  CartPage.class - Checked terms and condition
+17:42:47.777 [main] INFO  CartPage.class - Click on Checkout
+17:42:47.993 [main] INFO  CheckoutPage.class - Country selected
+17:42:48.074 [main] INFO  CheckoutPage.class - Entered city
+17:42:48.162 [main] INFO  CheckoutPage.class - Entered address
+17:42:48.243 [main] INFO  CheckoutPage.class - Entered zip code
+17:42:48.303 [main] INFO  CheckoutPage.class - Entered phone number
+17:42:48.359 [main] INFO  CheckoutPage.class - Click on Continue
+17:42:48.787 [main] INFO  CheckoutPage.class - Click on Continue
+17:42:49.263 [main] INFO  PaymentPage.class - Click on Continue
+17:42:49.663 [main] INFO  PaymentInfoPage.class - Click on Continue
+17:42:50.061 [main] INFO  ConfirmOrderPage.class - Click on Confirm
+17:42:51.552 [main] INFO  OrderPlacePage.class - Click on Continue
+18:00:46.497 [main] INFO  HomePage.class - Entered product name
+18:00:47.965 [main] INFO  HomePage.class - Click on the search
+18:00:48.563 [main] INFO  SearchResultPage.class - Click on product
+18:00:48.628 [main] INFO  ProductDetailsPage.class - Click on add to cart
+18:00:49.719 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+18:00:51.965 [main] INFO  HomePage.class - Entered product name
+18:00:52.632 [main] INFO  HomePage.class - Click on the search
+18:00:53.240 [main] INFO  SearchResultPage.class - Click on product
+18:00:55.949 [main] INFO  HomePage.class - Entered product name
+18:00:57.392 [main] INFO  HomePage.class - Click on the search
+18:00:58.054 [main] INFO  SearchResultPage.class - Click on product
+18:00:58.098 [main] INFO  ProductDetailsPage.class - Click on add to cart
+18:00:59.029 [main] INFO  ProductDetailsPage.class - Click on shopping cart
+18:01:01.708 [main] INFO  HomePage.class - Get the page title
+18:01:06.763 [main] INFO  HomePage.class - Entered product name
+18:01:08.087 [main] INFO  HomePage.class - Click on the search
+18:01:08.731 [main] INFO  SearchResultPage.class - Click on product
